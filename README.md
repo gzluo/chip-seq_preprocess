@@ -1,8 +1,4 @@
-# Cloned Mar. 1, 2016
-
-
-
-
+# start PyCharm, 03/17/16
 
 # Pipeline for ChIP-seq preprocessing
 
